@@ -35,7 +35,8 @@
       <?php
         include("secciones/portada.php");
       ?>
-      <div class="jumbotron p-3 p-md-5 text-white rounded bg-dark">
+      <div class="jumbotron p-3 p-md-5 text-white rounded" style="background-color: #4A90E2;">
+
         <div class="col-md-12 px-0">
           <h1 class="display-4 font-italic style="color: red;">
             <?php
@@ -582,6 +583,7 @@
     </script>
   </body>
 </html>
+
 
 
 
