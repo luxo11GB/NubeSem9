@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-  <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/3524/3524631.png" sizes="32x32" type="image/png">
+  <link rel="icon" type="image/png" href="img/favicon.png">
+
 
 
     <title>DIARIO EL HOCICÓN</title>
@@ -580,6 +581,7 @@
     </script>
   </body>
 </html>
+
 
 
 
