@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-  <link rel="icon" href=""https://www.flaticon.es/iconos-gratis/favicon" sizes="32x32" type="image/png">
+  <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/888/888879.png" sizes="32x32" type="image/png">
+
 
 
 
@@ -581,6 +582,7 @@
     </script>
   </body>
 </html>
+
 
 
 
